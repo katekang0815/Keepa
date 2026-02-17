@@ -1,14 +1,20 @@
-# Welcome to Keepa 👋
+Keepa 👋
 
 A mobile prayer companion designed to help children and teens build a daily habit of reflection and prayer through emotional awareness and guided conversation.
----
 
-📌 **Overview**
-Keeper is a mobile application built with Expo and React Native that helps users develop a consistent prayer habit by starting with emotional check-ins. The app encourages children and teens to reflect on how they feel, explore related scripture, and generate guided prayers tailored to their current emotional state.
+📖 Overview
 
-The goal is to create a safe, structured, and supportive environment where young users can process emotions through faith-based reflection.
+Keepa is a mobile application built with Expo and React Native that helps young users develop a consistent prayer habit by beginning with emotional check-ins.
 
-The app combines:
+Instead of starting with “What should I pray?”, Keepa starts with:
+
+“How are you feeling today?”
+
+Users reflect on their emotional state, explore relevant scripture, and generate guided prayers tailored to how they feel.
+
+The goal is to create a safe, structured, and supportive environment where children and teens can process emotions through faith-based reflection.
+
+Keepa combines:
 
 Daily emotional awareness
 
@@ -18,63 +24,59 @@ AI-assisted prayer conversations
 
 Longitudinal emotional tracking
 
-Keeper is not a replacement for pastoral care or mental health support. It is a structured spiritual journaling companion designed to support healthy habits.
+⚠️ Disclaimer
+Keepa is not a replacement for pastoral care, therapy, or mental health support. It is a structured spiritual journaling companion designed to encourage healthy reflection habits.
 
----
-
-✨ **Features**
-
-- **Product URL Input:** Submit your product URL to find matching YouTube channels.
-Core Features
+✨ Core Features
 1. Daily Emotional Check-In
 
 Prompt: “How are you feeling today?”
 
-Users can select multiple emotions.
+Users can select multiple emotions
 
-Emotional states can be logged multiple times per day.
+Emotions can be logged multiple times per day
 
-Designed to support self-awareness and reflection.
+Designed to promote self-awareness and reflection
 
 2. Emotion Log History
 
-Stores emotional entries over time.
+Stores emotional entries over time
 
-Enables pattern tracking and longitudinal insights.
+Enables pattern tracking and longitudinal insights
 
-Designed to support future follow-up prompts.
+Supports future personalized follow-ups
 
 3. Guided Reflection Paths
 
-Based on selected emotions, users can choose one of three structured options:
+After selecting emotions, users can choose one of three structured paths:
 
-Talk about why they feel this way
+💬 Talk about why they feel this way
 
-Find relevant Bible verses related to their emotional state
+📖 Discover relevant Bible verses
 
-Generate a guided prayer
+🙏 Generate a guided prayer
 
 Each path follows a controlled, age-appropriate conversation flow.
 
 4. AI-Guided Conversation
 
-Structured prompts based on selected emotions.
+Structured prompts based on selected emotions
 
-Supportive and age-appropriate tone.
+Supportive and age-appropriate tone
 
-Conversation context can continue across sessions.
+Context can continue across sessions
 
-Designed with guardrails to avoid medical or professional advice.
+Guardrails prevent medical or professional advice
 
 5. Habit Formation Support
 
-Encourages daily engagement.
+Encourages daily engagement
 
-Potential for streak tracking and reminders.
+Potential for streak tracking and reminders
 
-Builds a ritual around nightly reflection and prayer.
+Builds a nightly ritual around reflection and prayer
 
-6. Future Enhancements
+6. Planned Enhancements
 
 Emotion trend analysis
 
@@ -86,12 +88,8 @@ Parent consent flow for younger users
 
 Age-based UI adjustments
 
----
-
-
-🛠️ **Technologies Used**
-
-- Frontend
+🛠️ Tech Stack
+Frontend
 
 Expo
 
@@ -115,6 +113,8 @@ Database storage
 
 Secure API endpoints
 
+Supabase Edge Functions
+
 AI Layer (Planned)
 
 OpenAI API for guided conversation
@@ -127,7 +127,9 @@ Emotion logs
 
 Conversation history
 
-Generated prayers and verse references
+Generated prayers
+
+Scripture references
 
 Infrastructure
 
@@ -136,16 +138,11 @@ Secure API layer for AI calls
 Environment variable management
 
 Push notifications via Expo
-- 
-- Supabase (Backend storage and edge function)
-- 
 
----
+🎯 Target Audience
 
-💡 **Target Audience**
 Children and teens, approximately ages 7 to 18
 
-Faith-based families seeking structured spiritual habit building
+Faith-based families seeking structured spiritual habits
 
 Youth ministry and church communities
----
