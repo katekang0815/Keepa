@@ -5,7 +5,8 @@
 A mobile prayer companion designed to help children and teens build a daily habit of reflection and prayer through emotional awareness and guided conversation.
 
 ---
-📌 **Overview**
+📌 **Overview
+
 Keeper is a mobile application built with Expo and React Native that helps users develop a consistent prayer habit by starting with emotional check-ins. The app encourages children and teens to reflect on how they feel, explore related scripture, and generate guided prayers tailored to their current emotional state.
 
 The goal is to create a safe, structured, and supportive environment where young users can process emotions through faith-based reflection.
