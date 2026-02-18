@@ -1,13 +1,13 @@
 
 
-# Keepa 👋
+# KnockKnock 👋
 
-A mobile prayer companion designed to help children and teens build a daily habit of reflection and prayer through emotional awareness and guided conversation.
+A mobile prayer companion designed to help young adults build a daily habit of reflection and prayer through emotional awareness and guided conversation.
 
 ---
 📌 **Overview
 
-Keeper is a mobile application built with Expo and React Native that helps users develop a consistent prayer habit by starting with emotional check-ins. The app encourages children and teens to reflect on how they feel, explore related scripture, and generate guided prayers tailored to their current emotional state.
+KnockKnock is a mobile application built with Expo and React Native that helps users develop a consistent prayer habit by starting with emotional check-ins. The app encourages children and teens to reflect on how they feel, explore related scripture, and generate guided prayers tailored to their current emotional state.
 
 The goal is to create a safe, structured, and supportive environment where young users can process emotions through faith-based reflection.
 
@@ -29,7 +29,7 @@ Keeper is not a replacement for pastoral care or mental health support. It is a 
 
 ---
 💡 **Target Audience**
-- Children and teens, approximately ages 7 to 18
+- Young adult, approximately ages 14 to 20
 - Faith-based families seeking structured spiritual habit building
 - Youth ministry and church communities
 
