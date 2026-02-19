@@ -35,8 +35,12 @@ Keeper is not a replacement for pastoral care or mental health support. It is a 
 
 ---
 🛠️ **Technologies Used**
-
-
+Humans are ritual creatures.
+A small daily ritual for kids who might not otherwise process their emotions through prayer.
+- Repeatedly practices:
+    1. Naming emotions
+    2. Reflecting instead of reacting
+    3. Turning struggle into prayer
 ---
 Feel free to contribute or open issues for improvements!
 
