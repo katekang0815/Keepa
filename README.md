@@ -43,5 +43,10 @@ A small daily ritual for kids who might not otherwise process their emotions thr
     2. Reflecting instead of reacting
     3. Turning struggle into prayer
 ---
-Feel free to contribute or open issues for improvements!
+
+1. Brain dumping
+2. Cluster
+3. Mind place
+4. Emotional differentiation
+5. Define source: outer? internal?
 
