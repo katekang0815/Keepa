@@ -34,7 +34,7 @@ Keeper is not a replacement for pastoral care or mental health support. It is a 
 - Youth ministry and church communities
 
 ---
-🛠️ **Mothodology**
+**Mothodology**
 
 Humans are ritual creatures.
 A small daily ritual for kids who might not otherwise process their emotions through prayer.
