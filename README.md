@@ -11,11 +11,6 @@ KnockKnock is a mobile application built with Expo and React Native that helps u
 
 The goal is to create a safe, structured, and supportive environment where young users can process emotions through faith-based reflection.
 
-The app combines:
-- Daily emotional awareness
-- Guided spiritual reflection
-- AI-assisted prayer conversations
-- Longitudinal emotional tracking
 
 Keeper is not a replacement for pastoral care or mental health support. It is a structured spiritual journaling companion designed to support healthy habits.
 
