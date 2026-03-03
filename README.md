@@ -34,14 +34,7 @@ Keeper is not a replacement for pastoral care or mental health support. It is a 
 Humans are ritual creatures.
 A small daily ritual for kids who might not otherwise process their emotions through prayer.
 - Repeatedly practices:
-    1. Naming emotions
+    1. Emotional differentiation: Naming emotions. Define source: outer? internal?
     2. Reflecting instead of reacting
     3. Turning struggle into prayer
 ---
-
-1. Brain dumping
-2. Cluster
-3. Mind place
-4. Emotional differentiation
-5. Define source: outer? internal?
-
