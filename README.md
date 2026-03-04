@@ -37,4 +37,3 @@ A small daily ritual for kids who might not otherwise process their emotions thr
     1. Emotional differentiation: Naming emotions. Define source: outer? internal?
     2. Reflecting instead of reacting
     3. Turning struggle into prayer
----
