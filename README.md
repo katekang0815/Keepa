@@ -37,3 +37,18 @@ A small daily ritual for kids who might not otherwise process their emotions thr
     1. Emotional differentiation: Naming emotions. Define source: outer? internal?
     2. Reflecting instead of reacting
     3. Turning struggle into prayer
+---
+**User Flow 
+- Home page:  Heart door open animated
+- Detail page 1: Emotion check in
+    -  How are you feeling today?
+- Detail page 2:  Emotions Chart
+    Compassionate emotional scientist: Your feelings are allowed. All emotions are valid. They can be spoken. 
+    - emotion tag:
+        - detailed naming
+            - source:  internal? outer? dumping the emotion if it is coming from outer, focus on what you choose and next action
+            - what are you doing/ where/ who you with
+        - reflection on this emotion
+            - underling theme of emotion / root
+- Detail page 3:
+    How emotions/ feelings can be prayed through.  How they are not separate from faith.
