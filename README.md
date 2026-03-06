@@ -46,7 +46,7 @@ A small daily ritual for kids who might not otherwise process their emotions thr
     Compassionate emotional scientist: Your feelings are allowed. All emotions are valid. They can be spoken. 
     - emotion tag:
         - detailed naming
-            - source:  internal? outer? dumping the emotion if it is coming from outer, focus on what you choose and next action
+            - source:  internal? outer? dumping the emotion if it is coming from outer
             - what are you doing/ where/ who you with
         - reflection on this emotion
             - underling theme of emotion / root
