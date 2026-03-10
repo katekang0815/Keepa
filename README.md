@@ -16,11 +16,6 @@ Keeper is not a replacement for pastoral care or mental health support. It is a 
 
 ---
 ✨ **Features**
-- **Daily Emotional Check-In:**
-- **Emotion Log History:** 
-- **Guided Reflection Paths:** 
-- **AI-Guided Conversation:** 
-- **Habit Formation Support:** 
 
 ---
 💡 **Target Audience**
