@@ -11,7 +11,7 @@ KnockKnock is a mobile application built with Expo and React Native that helps u
 
 The goal is to create a safe, structured, and supportive environment where young users can process emotions through faith-based reflection.
 
-
+knock knock 마음문을 열고 들어가서 오늘의 마음날씨를 check in 하고 왜 이런 마음이 드는지 기록해보고 하나님께 음성 듣기, 모든 감정은 하나님이 주신것. 하나님도 같은 감정을 가지고 계심. share vulnerability, 안좋은 감정들도 용도가 있음을 알도록. 이 엡을 통해서 점점 하나님과 가까워 질 수 있도록. 
 Keeper is not a replacement for pastoral care or mental health support. It is a structured spiritual journaling companion designed to support healthy habits.
 
 ---
