@@ -19,7 +19,6 @@ Keeper is not a replacement for pastoral care or mental health support. It is a 
 
 ---
 💡 **Target Audience**
-- Young adult, approximately ages 14 to 20
 - Faith-based families seeking structured spiritual habit building
 - Youth ministry and church communities
 
